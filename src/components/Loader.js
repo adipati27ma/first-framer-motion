@@ -7,7 +7,7 @@ const loaderVariants = {
     x: [-20, 20],
     y: [0, -30],
     transition: {
-      X: {
+      x: {
         yoyo: Infinity,
         duration: 0.5,
       },
